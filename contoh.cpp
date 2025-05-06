@@ -27,4 +27,11 @@ class Lingkaran
 public:
 int jarijari;
 
+    void input()
+    {
+        cout << "Masukkkan jari-jari : ";
+        cin >> jarijari;
+    }
+    
+
 };
