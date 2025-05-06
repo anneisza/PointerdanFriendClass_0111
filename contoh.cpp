@@ -22,6 +22,9 @@ public:
     //Lingkaran ol;
 };
 
-class Lingkaran{
+class Lingkaran
+{
+public:
+int jarijari;
 
 };
